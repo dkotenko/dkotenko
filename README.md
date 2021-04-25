@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![clala's 42 stats](https://badge42.herokuapp.com/api/stats/clala?darkmode=true&cursus=42&privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![clala's 42 stats](https://badge42.herokuapp.com/api/stats/clala?cursus=42&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
